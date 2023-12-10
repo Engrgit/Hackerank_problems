@@ -1,3 +1,3 @@
-# ereidanwo
+# ai p2p
 
-This repositiry contains series of exam questions solved with C++
+AI for p2p connectivity in Africa
